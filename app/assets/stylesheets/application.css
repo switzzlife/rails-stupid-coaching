@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+.quote {
+    margin: 30px 30px 30px 30px;
+    background-color: whitesmoke;
+    padding: 20px;
+    box-shadow: 2px 2px 10px grey;
+}
